@@ -1,0 +1,6 @@
+{
+  "name": "网络探索实验室：机器人直播推流与局域网实训",
+  "description": "面向初中七年级学生的计算机网络仿真实验平台。直观模拟机器人直播推流、流媒体服务器、无线路由器、手机与笔记本终端。通过配置静态IP、子网掩码、网关、Wi-Fi密码及物理布线，体验终端设备实时投射机器人直播画面。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
